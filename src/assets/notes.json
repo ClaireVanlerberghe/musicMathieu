@@ -1,0 +1,67 @@
+[
+    {
+        "id" : "1",
+        "note" : "Do",
+        "sons" : "./assets/noteMusique/do13.mp3" 
+    },
+    {
+        "id" : "2",
+        "note" : "Ré mineur",
+        "sons" : "./assets/noteMusique/reMineur2.mp3"
+    },
+    {
+        "id" : "3",
+        "note" : "Ré majeur",
+        "sons" : "./assets/noteMusique/re3.mp3" 
+    },
+    {
+        "id" : "4",
+        "note" : "Mi mineur",
+        "sons" : "./assets/noteMusique/miMineur4.mp3"   
+    },
+    {
+        "id" : "5",
+        "note" : "Mi majeur",
+        "sons" : "./assets/noteMusique/mi5.mp3"  
+    },
+    {
+        "id" : "6",
+        "note" : "Fa mineur",
+        "sons" : "./assets/noteMusique/fa6.mp3"   
+    },
+    {
+        "id" : "7",
+        "note" : "Fa majeur",
+        "sons" : "./assets/noteMusique/faMajeur7.mp3"  
+    },
+    {
+        "id" : "8",
+        "note" : "Sol mineur",
+        "sons" : "./assets/noteMusique/sol8.mp3"  
+    },
+    {
+        "id" : "9",
+        "note" : "Sol majeur",
+        "sons" : "./assets/noteMusique/solMajeur9.mp3"   
+    },
+    {
+        "id" : "10",
+        "note" : "La mineur",
+        "sons" : "./assets/noteMusique/la10.mp3"   
+    },
+    {
+        "id" : "11",
+        "note" : "La majeur",
+        "sons" : "./assets/noteMusique/laMajeur11.mp3"  
+    },
+    {
+        "id" : "12",
+        "note" : "Si",
+        "sons" : "./assets/noteMusique/si12.mp3"  
+    },
+    {
+        "id" : "13",
+        "note" : "l'autre Do",
+        "sons" : "./assets/noteMusique/do1.mp3"   
+    }
+]
